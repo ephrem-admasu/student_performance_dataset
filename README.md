@@ -19,6 +19,8 @@ The dataset is represented as a multilabel prediction task where 21 features are
 
 If you are using this dataset, please cite our paper:
 
+Yekun, Ephrem Admasu, and Abrahaley Teklay Haile. "Student performance prediction with optimum multilabel ensemble model." Journal of Intelligent Systems 30.1 (2021): 511-523.
+```
 @article{yekun2021student,
   title={Student performance prediction with optimum multilabel ensemble model},
   author={Yekun, Ephrem Admasu and Haile, Abrahaley Teklay},
@@ -29,5 +31,5 @@ If you are using this dataset, please cite our paper:
   year={2021},
   publisher={De Gruyter}
 }
-
+```
 
