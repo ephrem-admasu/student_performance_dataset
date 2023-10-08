@@ -5,5 +5,6 @@ The dataset is represented as a multilabel prediction task where 21 features are
 
 | Feature Symbol | Description | Type | Possible Values |
 | -------------- | ----------- | ---- | --------------- |
+| Sex            | Gender of student | Categorical (nominal) | Female or Male |
 | Age            | Age of student | Numerical | [1, 100] |
 
